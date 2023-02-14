@@ -1,0 +1,898 @@
+SIGHTBOMB Ribbed Polo Tops 
+2001
+428
+White
+SIGHTBOMB
+4
+M
+Women
+1
+Jockey Women's Snug Sleeved Top
+2002
+415
+Black
+JOCKEY
+3
+M
+Women
+1
+Lymio women's Digital Printed Top
+2003
+359
+Pista
+LYMIO
+4
+S
+Women
+1
+Stylistico Tissue Fabric Top
+2004
+370
+Pink
+LYMIO
+4
+S
+Women
+1
+ILLI LONDON Women's Top
+2005
+499
+Pista
+LONDON
+3
+S
+Women
+1
+Istyle Solid Top
+2006
+859
+Black
+ISITYLE
+4
+L
+Women
+1
+Aahwan Neck Top
+2007
+350
+Mint
+AAHWAN
+2
+M
+Women
+1
+Istyle Bishop Sleeve Top
+2008
+800
+Black
+ISTYLE
+4
+M
+Women
+1
+Shasmi Slim Fit T-Shirt
+2009
+789
+Pista
+SHASMI
+4
+M
+Women
+1
+Lymio Women's Digital Printed Top
+2010
+359
+Peach
+LYMIO
+4
+S
+Women
+1
+Men's Classic Fit Shirt
+2011
+399
+Mint
+MIZAGO
+4
+L
+Men
+2
+Pemninora Men's Formal Shirt
+2012
+629
+RED
+Pemninora
+3
+L
+Men
+2
+Full Sleeve Shirt Men Shirt
+2013
+397
+Baby Pink
+MIZAGO
+3
+XL
+Men
+2
+Dennis Lingo Men's Casual Shirt
+2014
+370
+Black
+DENNIS LINGO
+5
+M
+Men
+2
+Urbano Men Casual T-shirt
+2015
+399
+Red
+URBANO
+4
+L
+Men
+2
+Kevin Printed Cotton Shirt
+2016
+599
+Flint Grey
+KEVIN
+3
+XS
+Men
+2
+Men's Slim Fit Casual T-Shirt
+2017
+459
+Grey
+URBANO
+4
+M
+Men
+2
+GRITSTONES Men's Classic Fit Shirt
+2018
+789
+White
+GRITSTONES
+2
+L
+Men
+2
+R&B Men's Casual Knit T-Shirt
+2019
+399
+Blue
+R&B
+4
+L
+Men
+2
+ISTYLE Men's Shirt
+2020
+574
+Grey
+ISTYLE
+5
+S
+Men
+2
+MANQ Men's Suit
+2021
+1399
+Dark Blue
+MANQ
+4
+L
+Men
+3
+Dhingra Men's Slim Fit Blazer
+2022
+1099
+Grey
+DHINGRA
+3
+S
+Men
+3
+BREGEO Men's Slim Fit Blazer
+2023
+1999
+White
+BREGEO
+4
+M
+Men
+3
+MENJESTIC Men's Blazer
+2025
+1399
+Black
+MENJESTIC
+2
+L
+Men
+3
+BREGEO Suits for Mens
+2024
+2799
+Black and White
+BREGEO
+3
+L
+Men
+3
+OORA Men's Tuxedo Style Suit
+2029
+3399
+Black and White
+OORA
+3
+L
+Men
+3
+WINTAGE Men's Blazer
+2027
+1399
+Cream
+WINTAGE
+4
+M
+Men
+3
+MTS Men's Casual Blazer
+2028
+999
+Brown
+MTS
+3
+L
+Men
+3
+WINTAGE Men's Suit Blazer
+2026
+2399
+Black
+WINTAGE
+4
+XL
+Men
+3
+Ayesha Men's Blazer
+2030
+1879
+Dark Blue
+AYESHA
+5
+L
+Men
+3
+Anand Women's Chiffon Saree
+2039
+599
+Yellow
+ANAND
+4
+All
+Women
+4
+Oomph Women’s Georgette Sarees
+2032
+256.50
+Black
+OOMP
+3
+All
+Women
+4
+RJB Women's Georgette Saree
+2033
+1599
+Blue
+RJB
+4
+All
+Women
+4
+Anand Women's Georgette Saree
+2034
+999
+Grey
+ANAND
+2
+All
+Women
+4
+Vaamsi Cotton Printed Kurti
+2038
+599
+Brown
+VAAMSI
+4
+S
+women
+4
+INDO Women'SAnarkali
+2036
+999
+Mint
+INDO
+4
+M
+Women
+4
+Karigari Women's Kurta
+2037
+679
+Yellow
+KARIGARI
+3
+L
+women
+4
+INDO Women's Kurta
+2035
+999
+COFFEE
+INDO
+2
+XL
+Women
+4
+Juniper Women's Kurta
+2031
+345
+Green
+JUNIPER
+3
+S
+Women
+4
+KARIGARI Women's Kurta
+2040
+599
+Peach
+KARIGARI
+4
+M
+women
+4
+KOTTY Womens Jeans
+2041
+1999
+Blue
+KOTTY
+4
+M
+Women
+5
+ADDYVERO Women's Trousers
+2042
+2999
+Black
+ADDYVERO
+3
+S
+Women
+5
+POPWINGS Casual Women Pants
+2043
+1779
+White
+POPWINGS
+4
+L
+Women
+5
+ADDYVERO Women's Trouser
+2046
+1999
+Blue
+ADDYVERO
+4
+M
+Women
+5
+FRIONKANDY Women Skirt
+2045
+777
+Pink
+FRIONKANDY
+2
+L
+Women
+5
+Krishika Women's Skirt
+2044
+1098
+Black
+KRISHIKA
+3
+M
+Women
+5
+Urbano Men's Jeans
+2047
+1999
+Blue
+URBANO
+4
+S
+Men
+5
+KOTTY men's Jeans
+2050
+3999
+Black
+KOTTY
+3
+M
+Men
+5
+Novarc Men's Jeans
+2049
+1024
+Grey
+NOVARC
+4
+L
+Men
+5
+URBANO Men's Jeans
+2048
+999
+Blue
+URBANO
+5
+S
+Men
+5
+Purys Women Coat
+2051
+999
+Pink
+PURYS
+5
+S
+Women
+6
+Cazibe Men's Jacket
+2058
+1999
+Brown
+CAZIBE
+3
+S
+Men
+6
+Qube Women's Jacket
+2057
+599
+Baby Pink
+QUBE
+3
+M
+Women
+6
+Qube Men's Jacket
+2054
+899
+Black
+QUBE
+4
+L
+Men
+6
+Martin Men's Jacket
+2055
+678
+Grey
+MARTIN
+4
+M
+Men
+6
+CAZIBE Men's Jacket
+2056
+997
+Golden
+CAZIBE
+3
+S
+Men
+6
+PURWAD Women Coat
+2053
+999
+Baby Pink
+PURWAD
+5
+S
+Women
+6
+Martin Men's Jacket
+2052
+999
+Black
+Martin
+5
+S
+Men
+6
+ADYK Men's Jacket
+2060
+1999
+Blue
+ADYK
+4
+M
+Men
+6
+Puma Women Coat
+2059
+2999
+Black
+PUMA
+5
+L
+Women
+6
+Chips Women's Sandals
+2065
+1999
+Black
+CHIPS
+3
+5
+Women
+7
+ELISE Women's Ballet Flats
+2062
+999
+Blue
+ELISE
+4
+8
+Women
+7
+Flavia Women's Shoes
+2063
+2999
+Cream
+FLAVIA
+4
+7
+Women
+7
+Belini women's Shoes
+2068
+799
+Black
+BELINI
+3
+3
+Women
+7
+Sparx Women's Sneakers
+2061
+890
+Pink
+SPARK
+3
+6
+Women
+7
+Fusefit Men Shoes
+2069
+2999
+Red
+FUSEFIT
+4
+7
+Men
+7
+Centrino Men's Sneakers
+2067
+1000
+Grey
+CENTRINO
+4
+5
+Men
+7
+SPARK Men's Shoes
+2064
+999
+Bkue
+SPARK
+5
+8
+Men
+7
+BELINI Women's Shoes
+2066
+899
+mint
+BELINI
+2
+7
+Women
+7
+URJO Men's Sandals
+2070
+409
+Black
+URJO
+3
+6
+Men
+7
+Lavie Women's Handbag
+2071
+1706
+Black
+LAVIE
+4
+None
+Women
+8
+Harper Women's Handbag
+2078
+1996
+Black
+HARPER
+3
+None
+Women
+8
+Sakwoods Sling Bag 
+2079
+706
+Black
+SAKWOOD
+4
+None
+Women
+8
+Butterflies Sling Bag
+2074
+1786
+Cream
+BUTTERFLIES
+3
+None
+Women
+8
+Sakwoods Women's Sling Bag
+2075
+906
+grey
+Sakwoods
+4
+None
+Women
+8
+Envias Women's Handbag
+2076
+1999
+Pink
+ENVIAS
+None
+Women
+8
+IVY Women's Bag
+2077
+456
+Black
+IVY
+4
+None
+Women
+8
+ENVIAS Women's Handbag
+2072
+699
+Golden
+ENVIAS
+3
+None
+Women
+8
+Laviest Women's Handbag
+2073
+1450
+Black
+LAVIEST
+4
+6
+Women
+8
+Luies Women's Handbag
+2080
+999
+Black
+LUIES
+4
+None
+Women
+8
+Fastrack Men's Watch
+2081
+1999
+Black
+FASTRACT
+4
+none
+Men
+9
+SONATA Men's Watch
+2087
+1790
+Black
+SONATA
+4
+None
+Men
+9
+Fastrack Women's Watch
+2083
+2999
+Brown
+FASTRACT
+4
+None
+Women
+9
+SONATA Women's Watch
+2088
+1239
+Silver
+None
+5
+Women
+9
+TIMEX Men's Watch
+2085
+2499
+Grey
+TIMEX
+3
+None
+Men
+9
+WildHorn Men's Wallet
+2086
+999
+Snuff
+WILDHORN
+5
+None
+Men
+9
+Alley Wallet
+2082
+456
+Brown
+ALLEY
+3
+None
+Men
+9
+HIPPON Unisex Sunglasses
+2084
+599
+Blue
+HIPPON
+4
+None
+All
+9
+LAER Sunglasses
+2089
+899
+Black
+LAER
+5
+None
+All
+9
+LAER Sunglasses
+2090
+1999
+Blue
+LAER
+4
+None
+All
+9
+Galaxy Pearl Earrings
+2091
+1999
+Blue
+GALAXY
+3
+None
+Women
+10
+RATNAWALI Jewels
+2092
+15999
+Golden
+RATNAWALI
+4
+None
+women
+10
+DANGLER Jewels 
+2099
+10999
+Golden
+DANGLER
+4
+None
+Women
+10
+ORNATO Earrings
+2094
+19999
+Golden
+ORANTO
+5
+None
+women
+10
+HYATI Earrings
+2097
+10999
+Golden
+HYATI
+3
+None
+Women
+10
+ORANTO Jewels
+2096
+5999
+None
+ORANTO
+3
+None
+Women
+10
+GIVA Pearl Earrings
+2095
+18999
+None
+GIVA
+4
+None
+Women
+10
+KRISHNA Jewels
+2098
+18999
+None
+KRISHNA
+4
+none
+Women
+10
+HYATI Jewels
+2093
+15999
+None
+HYATI
+4
+None
+Women
+10
+SPARK Jewels
+2100
+15999
+None
+SPARK
+3
+None
+Women
+10
