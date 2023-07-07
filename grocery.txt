@@ -1,0 +1,371 @@
+Whole White quinoa
+6001
+270
+Urban platter
+4
+1kg
+1
+Manna Millets
+6006
+385
+Manna
+4.5
+2500 grams
+1
+Palfrey Roasted
+6007
+294
+Palfrey
+4
+300 grams
+1
+Barnyard Milletes
+6004
+440
+Supple foods
+4.2
+1600 grams
+1
+Foxtail Milletes Grains
+6005
+380
+Supple foods
+4.6
+1.6 kg
+1
+Nature organic quinoa
+6002
+250
+JIWA HEALTH BY NATURE
+4.2
+1 kg
+1
+Quinoa Seeds
+6003
+949
+SINEW NUTRITION
+4.7 
+5 Kg
+1
+Organic wheat khapli
+6008
+145
+OrgaSatva
+5
+1kg
+1
+Khapli Wheat Flour
+6009
+1780
+Agrovation
+3
+10 kg
+1
+Whole Bajra Grains
+6010
+78
+Prana Organics
+3.3
+1kg
+1
+Almond Milk
+6011
+695
+Urban platter
+4
+3kg
+2  
+Almond MILK
+6018
+198
+Epigamia
+3
+200 ml
+2
+Unsweetened
+6013
+220
+So Good
+4
+100ml
+2 
+Vanilla
+6014
+357
+So Good
+4
+250 g
+2
+Dairy milk silk chocolate
+6014
+144
+Cadbury
+4.6 
+162 g
+2
+Choco chips dark
+6015
+225
+Cadbury
+4.2
+100 g
+2
+Cadbury chocolate Born vita
+6016
+626
+BOURNVITA
+4.1
+2kg
+2
+Boost Chocolate
+6015
+249
+BOOST
+4.5
+1 Grams
+2
+Amul Butter
+6017
+235
+Amul
+4.2
+500 Grams
+2
+Creamy Thick Curd
+6012
+30
+ID FRESH
+4.7
+300g
+2
+Nutraj Almond Nuts
+6019
+500
+Nutraj
+3.6
+1 KG
+3
+Nutraj Raisin Nuts
+6020
+200
+Nutraj
+3.5 
+1 KG
+3
+Nutraj Cashew Nuts
+6024
+700
+Nutraj
+3.6
+1 kg
+3
+Happilo healthy Dried Nutmix
+6022
+288
+Happilo
+4
+200 Grams
+3
+Vedaka whole Cashews
+6023
+269
+Vedaka
+3.9
+200 Grams
+3
+Happilo Cashews
+6021
+464
+Happilo
+4
+200 Grams
+3
+Rostaa Dried Cranberry
+6026
+784
+Rostaa
+4.6
+1 Kg
+3
+Tulsi California Almonds
+6025
+825
+Tulsi California Almonds
+4
+1 Kg
+3
+Rostaa Iranian Pista
+6027
+1344
+Rostaa
+3.9
+750 Grams
+3
+SFT Pstachios Roasted & Salted Pista
+6028
+589
+SFT
+4
+500 Grams
+3
+Nestle Maggi 5 in one pack
+6029
+25
+Nestle
+4.5
+1 Pack
+4
+Lays 5 set
+6031
+50
+Lays
+3.5
+5 Set
+4
+Kurkure 5 set
+6030
+30
+Lays
+4.5
+5 Set
+4
+ORION Custus Cupcake
+6035
+315
+ORION
+4.3
+5 Cakes
+4
+RiteBite Max Protein Chips
+6033
+355
+RiteBite Max Protein
+4.8
+Pack of 3
+4
+Roasted Chatpata Chana
+6034
+69
+NUTTY YOGI
+3.2
+100 Gram(1 Pack)
+4
+ORION Cookies
+6034
+399
+ORION
+4
+800 Grams
+4
+Sunfeast Dark Fantacy
+6032
+180
+Sunfeast Dark Fantacy
+4.7
+600 Grams
+4
+Boost Health,nutrition Drink
+6037
+318
+BOOST
+4.7
+750 Grams
+5
+Cadbury Bournvita Chocolate Drink
+6034
+360
+BOURNVITA
+4.8
+1 Kg
+5
+Womens Horlicks Plus Chocolate Drink
+6035
+279
+Womens Horlicks
+4.5
+1 Kg
+5
+Paper Boat Aamras Drink
+6036
+228
+Paper Boat
+3.8
+1L
+5
+Minute made puply Orange Friut Drink
+6033
+64
+Minute Maid
+3.7
+100 ml
+5
+Paper Boat Jaljeera Drink
+6038
+159
+Paper Boat
+4.2
+200 ml
+5
+Cadbury Chocolate Health Drink
+6040
+626
+BOURNVITA
+4
+2 KG
+5
+Real Fruit Power Cranberry
+6039
+104
+Real
+4.3
+1 L
+5
+Real Activ Orange Juice Drink
+6041
+99
+Real
+3.2
+1 L
+5
+Baker Easy Pizza Dough Mix
+6044
+239
+Wingreens Farms
+2.4
+200 Grams
+6
+Baker Eggless Chewy Chocolate cookie
+6043
+211
+Wingreens Farms
+2
+16
+6
+Choco Fudge Cake Mix
+6042
+207
+Betty Crocker
+3.6
+100 Grams
+6
+Betty Crocker Pancake Mix
+6045
+161
+Betty Crocker
+4.2
+500 Grams
+6
+Cadbury Choco Chips Dark Bread
+6046
+225
+Cadbury
+4
+350 Grams
+6
+Betty Crocker Choco Fudge Cake 
+6047
+207
+Betty Cr0cker
+3.8
+475 Grams
+6

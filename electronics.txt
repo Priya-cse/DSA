@@ -1,0 +1,357 @@
+Dell 14(2021)i5-1155G7 2in1 Touch Screen Laptop
+1001
+70790.00
+Dell
+4
+14 Inches Natural Silver Windows 10
+1
+HP 15s 11th Gen Intel Core i3 15.6 Inches Laptop
+1002
+50196.00
+HP
+4.2
+15.6 Inches Natural Silver Windows 11
+1
+Acer Nitro 5 AN5-57 Gaming Laptop
+1007
+74999.99
+Acer
+3.8
+15.6 Inches Black Windows 10
+1
+Lenovo IdeaPad Slim 5 Pro 11th Gen Intel Core i5 Thin amd Light Laptop/Lenovo ideapad slim5
+1008
+67190
+Lenovo
+3
+14 Inches Storm Gray Windows 10 home
+1
+Zinq 818W 2.4 Ghz Mouse Wireless 
+1006
+599
+Zinq Technologies  
+4.8
+Black 1600DPI
+1
+USB Wire Keyboard
+1005
+299
+Generic
+3
+Black
+1
+APC Back-UPS
+1003
+3299
+APC
+4.5
+Black
+1
+PC SQUARE Stand/ Holder Riser
+1004
+499
+PC Square
+3.2
+Silver
+1
+Quantum QHM495M 6 Light Webcam
+1009
+649
+Quantum
+4.4
+Black
+1
+Artis UPS 
+1010
+2279
+Artis
+3.9
+Black
+1
+boAt Wired USB Gaming Headphone
+1011
+1499
+boAt
+4.7
+Furious Blue 300 Grams
+2
+Lenovo 100 Stereo Wired Headphones with Mic
+1015
+1499
+Lenovo
+3.8
+Cloud Gray 114 Gram
+2
+WeCool Moonwalk M4 Gaming Earphones
+1013
+4999
+Wecool
+3.2
+Black 38 Grams
+2
+OnePlus Airpod Stores
+1014
+2999
+OnePlus
+4.7
+Gray 50 Grams
+2
+pTron Tangentbeat Bluetooth Wireless Headphones
+1012
+2499
+pTron
+4
+Black and Yellow
+2
+boAt Airpodes 
+1019
+1299
+boAt
+4.9
+Cherry Blossom
+2
+Mi Portable Bluetooth Speaker 
+1017
+2499
+MI
+3.8
+Black
+2
+OnePlus Wireless Bluetooth Speaker
+1018
+999
+OnePlus
+4.6
+Red
+2
+Infinity Fuze pint,Wireless Ultra portable mini Speaker with Mic
+1016
+899
+Infinity
+3.9
+Blue
+2
+Echo Dot Smart Speaker 
+1020
+3799
+Echodot
+4.4
+Blue
+2
+Apple iPhone 13 Pro Max Mobile
+1021
+159900
+Apple
+4
+Graphite 512 GB
+3
+Oppo F19 Pro+5G Mobile
+1028
+25990
+Oppo
+4.2
+Fluid Black Mobile 128 GB
+3
+Vivo Y33s Mobile
+1026
+18999
+Vivo
+3.6
+Mirror Black 128 GB
+3
+Redmi 9A Mobile
+1024
+7499
+Redmi
+4.8
+Natural Green 32 GB
+3
+Mi 11X Pro 5G Mobile
+1025
+36900
+MI
+3.9
+Lunar white 128 GB
+3
+Samsung Galaxy A52 Mobile
+1023
+26499
+Samsung
+4
+Black 128 GB
+3
+OnePlus Nord 2 5G Mobile
+1027
+29999
+OnePlus
+4.9
+Blue Haze 128 GB
+3
+Samsung Galaxy S21 5G Mobile
+1022
+64999
+Samsung
+4
+Phantom violet 128 GB
+3
+Vivo Y15 Mobile
+1029
+18099
+Vivo
+3.8
+Aqua Blue 64 GB
+3
+Tecno Spark 8 Pro Mobile
+1030
+10599
+Tecno
+3.9
+Turqoise Cyan 64 GB
+3
+Redmi Note 10s Mobile
+1033
+16499
+Redmi
+4.6
+Cosmic Purple 512 GB
+3
+Nadessa USB wired Retro Classic Game Controller for windows Laptop PC Mac
+1032
+749
+Nadessa
+3.9
+White Windows 98/ME/2000
+4
+Nadessa RGB Gaming Wired USB Mouse 
+1031
+1499
+Nadessa
+4
+Blue
+4
+Zebronics Gaming Mic for Recording
+1038
+865
+Zebronics
+3.6
+Black 
+4
+Ant Esports GAMEi Gaming Glasses
+1035
+1999
+Ant Esports GAMEi
+3
+Black
+4
+Cosmic Byte GS430 Gaming wired over Ear Headphone
+1036
+914
+Cosmic Byte
+4.3
+Black
+4
+Redgear Gaming Microphone with RGB Lighting
+1037
+2499
+Redgear
+3.6
+Black
+4
+Eureka Ergonomic Gaming Desk for Small Spaces
+1034
+10999
+Eureka Ergonomic
+2.9
+Black 39" Rectangular
+4
+Gaming Mousepad
+1039
+339
+Redgear
+4.5
+Black Large Rectangular
+4
+Gaming Earbuds with Bluetooth
+1040
+999
+Benco
+3
+Black Vice Control
+4
+PUBG Gaming Triggers with Conductive Technology
+1041
+559
+SpinBoat
+4
+Blue 50 Grams
+4
+iGRiD Hair Dryer
+1042
+899
+iGRiD
+4
+Black
+5
+Ceramic Plates Fast Heat up Hair Straightener
+1046
+999
+Havells
+4.2
+Purple
+5
+Hair Clipper Beard Trimmer Kit
+1044
+849
+VGR
+3.1
+Black Men
+5
+Quick Hair Styler for men electric beard straightener Beard straightener 
+1045
+499
+Rylan
+3.2
+White for Curly,Thick,Thin,Straight
+5
+Electric Hair Curler
+1043
+299
+Anubha
+3.9
+Pink
+5
+Ladies Hair Curler Roller
+1048
+1449
+Mysticoal
+4.2
+Multicolour for Curly
+5
+Ubersweet Important Elecric Braider
+1047
+1099
+Ubersweet
+4.1
+Black for Curly
+5
+Electric Hair Straightener Brush Men
+1049
+329
+Carry Zone
+3.7
+White 
+5
+Electric Curler Styler and Crimper for women
+1050
+789
+JGJ
+4.1
+Pink Curly
+5
+Electric Clipper for Hair and Beard
+1051
+1399
+Kubra
+4
+Black
+5

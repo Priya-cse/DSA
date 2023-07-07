@@ -1,0 +1,400 @@
+Springtek Mattress 
+3001
+4499
+Blue
+SPRINGTEK
+4
+72x36 
+1
+SPRINGWEL Mattress
+3002
+5499
+Pearl
+SPRINGWELL
+5
+72x36 
+1
+COLOFLY Mattress
+3009
+3999
+Red
+SPRINGTEK
+3
+72x35
+1
+MOROFEEL Mattress
+3004
+6499
+White
+SPRINGTEK
+4
+72x35
+1
+COIRFIT Mattress
+3005
+5499
+Pink
+4
+SPRINGTEK
+102x56 
+1
+CENTUARY Mattress 
+3008
+9499
+Blue
+CENTUARY
+3 
+72x36
+1
+Nilkamal Mattress 
+3007
+5550
+Red
+NILKAMAL
+4
+102x56 
+1
+SPRINWELL Mattress
+3006
+4499
+Pearl
+SPRINWELL
+5
+72x36 
+1
+Starlite Mattress
+3003
+6499
+White
+STARLITE
+4
+72x36 
+1
+Startek Mattress
+3010
+9499
+White
+STARTEK
+4
+102x52
+1
+Modway Dining Set
+3011
+19499
+Brown
+MODWAY
+4
+147 x 76 x 89 
+2
+Furnizy Dining Set
+3015
+29499
+Brown
+FURNIZY
+4
+147 x 76 x 89 
+2
+RoyalOak Dining Set
+3013
+14560
+Black
+ROYALOAK
+4
+143 x 66 x 87 
+2
+Taskwood DINING SET
+3014
+18900
+Brown
+TASKWOOD
+4
+144.78 x 76.2 x 88.9
+2
+Douceur Dining Set
+3012
+19999
+Brown
+DOUCEUR
+5
+143 x 66 x 87 
+2
+WAITROSE Dining Table
+3019
+24560
+Brown
+WAITROSE
+4
+186 x 75 x 85
+2
+Allie Dining Set
+3017
+14000
+Brown
+ALLIE
+4
+143 x 66 x 87 
+2
+Vailge Dining Set
+3018
+14560
+Black
+VAILGE
+3
+116 x 76 x 86 
+2
+MEHAR Dining Table Set
+3016
+14999
+Brown
+MEHAR
+4
+143 x 66 x 87 
+2
+Oak Dining Set
+3020
+14560
+Black
+OAK
+3
+143 x 66 x 87 
+2
+Sleepyhead Fabric Recliner
+3021
+23899
+Belgian Beige
+SLEEPYHEAD
+4
+79 x 102 x 76 
+3
+Alcanes Leatherette Recliner
+3026
+33999
+Belgian Beige
+ALCANES
+3
+96.52 x 101.6 x 76.2
+3
+Jordyblue Leatherette Recliner
+3023
+23999
+Black
+JORDYBLUE
+4
+1524 x 762 x 710 
+3
+MEZIRE Sofa
+3024
+45899
+Blue
+MEZIRE
+3
+79 x 102 x 76 
+3
+MEZIRE Inflatable Sofa  
+3025
+53899
+Blue
+MEZIRE
+4
+1524 x 762  x 710  
+3
+HINGOL Inflatable Sofa 
+3022
+33999
+Black
+HINGOL
+5
+79 x 102 x 76 
+3
+MANTAVYA Inflatable Sofa
+3029
+23799
+Black
+MANTAVYA
+4
+79 x 102 x 76 
+3
+Radhe Sofa 
+3028
+43899
+Red
+RADHE
+3
+4 x 762 x 710
+3
+NTEX Fabric Recliner
+3027
+13899
+White
+INTEX
+4
+79 x 102 x 76 
+3
+Vlida Fabric Recliner
+3030
+23899
+Belgian Beige
+INTEX
+4
+79 x 102 x 76 
+3
+Godrej Box Bed 
+3031
+27026
+Cola Rain
+GODREJ
+4
+158.4 x 88 x 213.5
+5
+DUROFLEX Box Bed 
+3032
+23367
+Chestnut Dark
+DUROFLEX
+4
+214 x 90 x 215
+5
+Bantia Metal Queen Bed
+3033
+23899
+Belgian Beige
+BANTIA
+4
+139 x 100 x 192
+5
+Forzza Box Bed
+3034
+23789
+Weng
+FORZZA
+3
+156 x 90 x 211
+5
+Nilkamal King Box Bed
+3035
+17590
+New Weng
+NILKAMAL
+2
+188 x 86 x 203
+5
+Vlida Fabric Bed
+3036
+23899
+New Weng
+VLIDA
+4
+188 x 86 x 203
+5
+BLUEWUD King Box Bed
+3037
+26899
+Belgian Beige
+BLUEWUD
+5
+158.5 x 93.4 x 197 
+5
+Suzzette King Box Bed
+3038
+23899
+Brown
+SUZZETTE
+4
+158.5 x 93.4 x 197 
+5
+Valida Bed
+3039
+13899
+Black
+VALIDA
+3
+79 x 102 x 76 
+5
+Tlida Bed
+3040
+23899
+Weng
+TLIDA
+4
+58.5 x 93.4 x 197
+5
+Godrej Plastic Chair
+3049
+7026
+Cola Rain
+GODREJ
+4
+60.19 x 88.9
+6
+Nilkamal Plastic Chair
+3042
+1590
+New Weng
+NILKAMAL
+2
+60.19 x 88.9
+6
+DUROFLEX foldable Chair
+3046
+3367
+Chestnut Dark
+DUROFLEX
+4
+21 x 90
+6
+BLUEWUD comfy Chair
+3044
+6899
+Belgian Beige
+BLUEWED
+5
+58.5 x 93.4
+6
+Bantia Metal Chair
+3045
+3899
+Black
+BANTIA
+4
+39 x 100
+6
+Veeshna Folding Chair
+3043
+4899
+Viege
+VEESHNA
+3
+59 x 90
+6
+Rose Office Executive Chair
+3047
+4999
+Red
+ROSE
+5
+50.8 x 121.92
+6
+FURNOO Office Executive Chair 
+3048
+7899
+Grey
+FURNOO
+4
+48.26 x 111.76
+6
+AquaLeo Mesh Chair 
+3041
+3899
+Viege
+AQUALEO
+3
+62 x 113
+6
+Buckberry Leatherette Chair
+3050
+7909
+Black
+VEESHNA
+3
+59 x 90
+6
